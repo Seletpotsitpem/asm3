@@ -1,7 +1,11 @@
 @media screen and (max-width: 600px) {
+  /* Khiến cho phần nav hiện các mục theo chiều dọc */
+
   .nav {
     flex-direction: column;
   }
+
+  /* Khiến cho hình ảnh không hiện */
 
   .nav img {
     display: none;

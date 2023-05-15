@@ -3,6 +3,8 @@
     flex-direction: column;
   } */
 
+  /* Khiến cho hình ảnh không hiện */
+
   .nav img {
     display: none;
   }

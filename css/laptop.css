@@ -257,6 +257,7 @@ li {
   grid-template-columns: 1fr 1fr;
   gap: 24px;
   padding-top: 32px;
+  padding-bottom: 32px;
   /* row-gap: 32px; */
 }
 

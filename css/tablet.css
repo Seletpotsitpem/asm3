@@ -1,0 +1,18 @@
+@media screen and (min-width: 600px) and (max-width: 992px) {
+  /* .nav {
+    flex-direction: column;
+  } */
+
+  .nav img {
+    display: none;
+  }
+
+  .job-info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .certificate-item {
+    flex-direction: column;
+  }
+}
